@@ -16,14 +16,16 @@ body, .body {
 			margin: auto !important;
 		}
 		
-		.main-content {
-			max-width: 800px !important;
-			margin: 0 auto !important;
-			text-align: justify !important;
-			padding: 20px !important;
-			color: #000 !important;
-		}
-		.footer {
+.main-content {
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    text-align: justify !important;
+    padding: 20px !important;
+    color: #000 !important;
+}
+
+
+.footer {
     text-align: center !important;
     color: #000 !important;
     margin: auto !important;
@@ -37,9 +39,8 @@ body, .body {
 		
 .h1, h1 {
     font-size: 1.5rem !important;
-    font-family: 'Libre Baskerville', serif !important;
+    font-family: 'Raleway', sans-serif !important;
     margin-bottom: 28px !important;
-    font-weight: 600;
 }
 		
 p {
