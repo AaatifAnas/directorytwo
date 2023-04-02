@@ -68,3 +68,9 @@ line-height: 3em;
 .dumplinks {
     display: none;
 }
+
+.signin {
+    padding-bottom: 20px;
+    text-align: right;
+}
+
