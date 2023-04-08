@@ -2,6 +2,7 @@ body, .body {
     background-color: #fff !important;
     max-width: 1000px !important;
     margin: auto !important;
+    margin-top: 50px !important;
 }
 		.header {
 			text-align: center !important;
