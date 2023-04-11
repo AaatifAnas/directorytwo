@@ -4,11 +4,18 @@ body, .body {
     margin: auto !important;
     margin-top: 50px !important;
 }
-		.header {
-			text-align: center !important;
-			color: #000 !important;
-			margin: 20px 0 !important;
-		}
+
+.header {
+    text-align: center !important;
+    color: #000 !important;
+    margin: 20px 0 !important;
+}
+
+a {
+    text-decoration: none !important;
+    color: black !important;
+    font-weight: bold !important;
+}
 	
 .ad-banner {
     display: flex !important;
@@ -88,11 +95,3 @@ line-height: 3em;
     color: white;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
