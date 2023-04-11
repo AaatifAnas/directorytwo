@@ -10,11 +10,15 @@ body, .body {
 			margin: 20px 0 !important;
 		}
 	
-		.ad-banner {
-			display: flex !important;
-			justify-content: center !important;
-			align-items: center !important;
-			margin: auto !important;
+.ad-banner {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: auto !important;
+    position: sticky;
+    top: 0;
+    background: #ededed;
+}
 		}
 		
 .main-content {
